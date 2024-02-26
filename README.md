@@ -34,4 +34,4 @@ docker run -p 8080:8080 calculator-api
 
 
 ## API Documentation
-The API documentation is available at http://localhost:8080/swagger-ui.html when the application is running.
+The API documentation is available at http://3.132.216.26/swagger-ui/index.html#/ .
