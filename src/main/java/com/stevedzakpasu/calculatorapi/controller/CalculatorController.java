@@ -9,6 +9,9 @@ import java.util.List;
 @RestController
 @RequestMapping("/api/calculator")
 @RequiredArgsConstructor
+/**
+ * This class represents the controller for the Calculator API.
+ */
 public class CalculatorController {
 
     private final CalculatorService calculatorService;
